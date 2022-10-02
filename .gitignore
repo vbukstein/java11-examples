@@ -11,4 +11,4 @@ bin
 build
 out
 target
-*/.devcontainer/*
+**/.devcontainer/**
